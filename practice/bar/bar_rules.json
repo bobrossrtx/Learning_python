@@ -1,0 +1,24 @@
+{
+   "bars":[
+      {
+         "teddies_bar":[
+            {
+               "max_drinks":10,
+               "min_age":18
+            }
+         ],
+         "the_queens_inn":[
+            {
+               "max_drinks":12,
+               "min_age":18
+            }
+         ],
+         "ace_bounce":[
+            {
+               "max_drinks":10,
+               "min_age":21
+            }
+         ]
+      }
+   ]
+}
