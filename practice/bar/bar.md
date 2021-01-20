@@ -28,5 +28,3 @@ rules_data = json.load(bar_rules)
 - > If you have the .json file, it will read check if the random bar that has been chosen is in the dictionary.
 
 - > When it finds the title of the bar, it will then read the rules inside of it and print out on screen.
-
-### Part 3
